@@ -1,19 +1,21 @@
 // Next.js API route support: https://nextjs.org/docs/api-routes/introduction
 import type { NextApiRequest, NextApiResponse } from 'next';
-import { products } from '../../data';
+import products from '../../../data';
+
 
 type Data = {
-  id: number;
+  id: string;
   title: string;
-  price: number;
+  price: string;
   description: string;
-  category: string;
-  image: string;
-  rating: {
-    rate: number;
-    count: number;
-  };
+  categories: string;
+  image: string[];
+  rating: string;
+  review:string[]
 }[];
+
+
+
 export default function handler(
   req: NextApiRequest,
   res: NextApiResponse<Data>
