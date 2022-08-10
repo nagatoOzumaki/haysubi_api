@@ -22,5 +22,5 @@ export default function handler(
 ) {
     const {id}=(req.query as unknown) as {id:number}
 
-  res.status(200).json(products[id]);
+  res.status(200).json(products[id-1]);
 }
