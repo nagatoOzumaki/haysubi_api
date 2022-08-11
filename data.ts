@@ -1,6 +1,6 @@
 const products = [
   {
-    categories: 'phone',
+    categories: 'developper',
     id: '1',
     title: 'APPLE iPhone 12 Pro (Gold, 128 GB)',
     rating: '4.5',
@@ -24,7 +24,7 @@ const products = [
   },
 
   {
-    categories: 'phone',
+    categories: 'developper',
     id: '2',
     title: 'realme Narzo 30 5G (Racing Blue, 128 GB)',
     rating: '4.5',
@@ -62,7 +62,7 @@ const products = [
   },
 
   {
-    categories: 'phone',
+    categories: 'developper',
     id: '3',
     title: 'POCO M3 (Power Black, 64 GB)',
     rating: '4.5',
@@ -105,7 +105,7 @@ const products = [
   },
 
   {
-    categories: 'phone',
+    categories: 'developper',
     id: '4',
     title: 'MOTOROLA G60 (Dynamic Gray, 128 GB)',
     rating: '4.5',
@@ -139,7 +139,7 @@ const products = [
   },
 
   {
-    categories: 'phone',
+    categories: 'photographer',
     id: '5',
     title: 'Mi 11X (Lunar White, 128 GB)',
     rating: '4.2',
@@ -159,7 +159,7 @@ const products = [
     ],
   },
   {
-    categories: 'phone',
+    categories: 'photographer',
     title: 'OPPO Reno6 Pro 5G (Aurora, 256 GB)',
     id: '6',
     rating: '4.5',
@@ -188,7 +188,7 @@ const products = [
     ],
   },
   {
-    categories: 'phone',
+    categories: 'photographer',
     id: '7',
     title: 'realme 8 Pro (Infinite Black, 128 GB)',
     rating: '4.2',
@@ -208,7 +208,7 @@ const products = [
     ],
   },
   {
-    categories: 'phone',
+    categories: 'photographer',
     id: '8',
     title: 'Google Pixel 4a (Just Black, 128 GB)',
     rating: '4.1',
@@ -236,7 +236,7 @@ const products = [
   },
 
   {
-    categories: 'phone',
+    categories: 'photographer',
     id: '9',
     title: 'SAMSUNG Galaxy A52 (Awesome Blue, 128 GB)',
     rating: '4.3',
@@ -257,7 +257,7 @@ const products = [
   },
 
   {
-    categories: 'phone',
+    categories: 'photographer',
     id: '10',
     title: 'SAMSUNG Galaxy F12 (Celestial Black, 64 GB)',
     rating: '4.5',
@@ -276,7 +276,7 @@ const products = [
     ],
   },
   {
-    categories: 'Electronics',
+    categories: 'photographer',
     id: '11',
     title: 'HP Chromebook 14a-na0002TU Laptop ',
     rating: '4.5',
@@ -299,7 +299,7 @@ const products = [
   },
 
   {
-    categories: 'Electronics',
+    categories: 'gamer',
     id: '12',
     title: 'Canon EOS 3000D DSLR Camera 1 Camera Body, 18 - 55 mm Lens  (Black) ',
     rating: '4.3',
@@ -322,7 +322,7 @@ const products = [
   },
 
   {
-    categories: 'Electronics',
+    categories: 'gamer',
     id: '13',
     title: 'HP 27 inch Full HD LED Backlit IPS Panel Monitor (27m)  33000 mAh Power Bank  (Blue, Lithium-ion)',
     rating: '4.2',
@@ -345,7 +345,7 @@ const products = [
   },
 
   {
-    categories: 'Electronics',
+    categories: 'gamer',
     id: '14',
     title: 'Worricow Deep Bass Wireless Portable Bluetooth Mp3 Headphone MP3 Player ',
     rating: '4.0',
@@ -368,7 +368,7 @@ const products = [
   },
 
   {
-    categories: 'Electronics',
+    categories: 'gamer',
     id: '15',
     title: 'realme Buds Wireless Bluetooth Headset  (Yellow, In the Ear) ',
     rating: '4.9',
@@ -389,7 +389,7 @@ const products = [
     ],
   },
   {
-    categories: 'Electronics',
+    categories: 'gamer',
     id: '16',
     title: 'NLG-428-BLUE-BLU All Blue Boys Series Analog Watch - For Men ',
     rating: '3.9',
@@ -411,7 +411,7 @@ const products = [
     ],
   },
   {
-    categories: 'Electronics',
+    categories: 'gamer',
     id: '17',
     title: 'AGARO AG50 Movie Projector Video Projector Full HD  ',
     rating: '4.7',
@@ -434,7 +434,7 @@ const products = [
   },
 
   {
-    categories: 'Electronics',
+    categories: 'gamer',
     id: '18',
     title: 'Epson L3100 Multi-function Color Printer  (Black, Ink Tank) ',
     rating: '4.6',
@@ -456,7 +456,7 @@ const products = [
     ],
   },
   {
-    categories: 'fashion',
+    categories: 'gamer',
     id: '19',
     title: 'Allen Solly',
     rating: '4.4',
@@ -477,7 +477,7 @@ const products = [
     ],
   },
   {
-    categories: 'Sports',
+    categories: 'student',
     id: '20',
     title: 'CEAT POPLAR WILLOW CRICKET BAT (No- 6) Poplar Willow Cricket Bat  (0.900 g) ',
     rating: '3.6',
@@ -500,7 +500,7 @@ const products = [
   },
 
   {
-    categories: 'Sports',
+    categories: 'student',
     id: '21',
     title: 'JetFire Regular Wicket Keeping Gloves Combo With Inner Gloves(Men, Blue) Wicket Keeping Gloves  (Blue) ',
     rating: '4.0',
@@ -523,7 +523,7 @@ const products = [
   },
 
   {
-    categories: 'Sports',
+    categories: 'student',
     id: '22',
     title: 'NODENS Cricket Bat Grip, (Multicolour Pack of 6) Mesh Grip  (White, Pack of 6) ',
     rating: '4.1',
@@ -546,7 +546,7 @@ const products = [
   },
 
   {
-    categories: 'Sports',
+    categories: 'student',
     id: '23',
     title: 'Aurion Cricket Bag Shoulder Straps Sports Cricket Kit Bag for 2 Bat Caves with 2 pockets  (Multicolor, Kit Bag)',
     rating: '4.5',
@@ -569,7 +569,7 @@ const products = [
   },
 
   {
-    categories: 'Sports',
+    categories: 'student',
     id: '24',
     title: 'SBM  Cricket Ball (Pack Of 12) Cricket Ball  (Pack of 12, Green) ',
     rating: '3.7',
@@ -590,7 +590,7 @@ const products = [
     ],
   },
   {
-    categories: 'Sports',
+    categories: 'student',
     id: '25',
     title: 'NIVIA Storm Football - Size: 5',
     rating: '4.4',
@@ -612,7 +612,7 @@ const products = [
     ],
   },
   {
-    categories: 'Sports',
+    categories: 'student',
     id: '26',
     title: 'COSCO HI-GRIP Basketball - Size: 7',
     rating: '4.7',
@@ -632,7 +632,7 @@ const products = [
     ],
   },
   {
-    categories: 'Sports',
+    categories: 'student',
     id: '27',
     title: 'LI-NING Windstorm Nano 73 Professional Badminton Racquet',
     rating: '3.9',
@@ -653,7 +653,7 @@ const products = [
     ],
   },
   {
-    categories: 'fashion',
+    categories: 'student',
     id: '28',
     title: "Classic Polo Men's Regular Fit",
     rating: '4.4',
@@ -674,7 +674,7 @@ const products = [
     ],
   },
   {
-    categories: 'fashion',
+    categories: 'student',
     id: '29',
     title: "Benetton Men's Slim Polo Shirt",
     rating: '4.2',
@@ -695,7 +695,7 @@ const products = [
     ],
   },
   {
-    categories: 'fashion',
+    categories: 'student',
     id: '30',
     title: 'GODFREY Cotton Polo',
     rating: '4.1',
@@ -716,7 +716,7 @@ const products = [
     ],
   },
   {
-    categories: 'fashion',
+    categories: 'student',
     id: '31',
     title: "Adidas Men's Drogo M Running Shoes",
     rating: '3.4',
@@ -737,7 +737,7 @@ const products = [
     ],
   },
   {
-    categories: 'fashion',
+    categories: 'architect',
     id: '32',
     title: "Reebok Men's Fast Motion ",
     rating: '4.1',
@@ -758,7 +758,7 @@ const products = [
     ],
   },
   {
-    categories: 'fashion',
+    categories: 'architect',
     id: '33',
     title: 'Navy Running Shoes-6 UK',
     rating: '4.2',
@@ -779,7 +779,7 @@ const products = [
     ],
   },
   {
-    categories: 'fashion',
+    categories: 'architect',
     id: '34',
     title: 'Ray-Ban Men Square Sunglasses',
     rating: '4.4',
@@ -800,7 +800,7 @@ const products = [
     ],
   },
   {
-    categories: 'Beauty and Cosmetics',
+    categories: 'architect',
     id: '35',
     title: 'NIVEA Soft Moisturizing Cream  (200 ml)',
     rating: '4.5',
@@ -822,7 +822,7 @@ const products = [
     ],
   },
   {
-    categories: 'Beauty and Cosmetics',
+    categories: 'architect',
     id: '36',
     title: 'DOVE Intense Repair Conditioner  (175 ml)',
     rating: '4.4',
@@ -844,7 +844,7 @@ const products = [
     ],
   },
   {
-    categories: 'Beauty and Cosmetics',
+    categories: 'architect',
     id: '37',
     title: 'Clean & Clear Face Wash  (450 ml)',
     rating: '4.5',
@@ -866,7 +866,7 @@ const products = [
     ],
   },
   {
-    categories: 'Beauty and Cosmetics',
+    categories: 'architect',
     id: '38',
     title: 'Kesh King Scalp and Medicinal Ayurvedic Hair Oil  (100 ml)',
     rating: '4.3',
@@ -886,7 +886,7 @@ const products = [
     ],
   },
   {
-    categories: 'Beauty and Cosmetics',
+    categories: 'architect',
     id: '39',
     title: 'SET WET Cool, Charm and Swag Avatar Deodorant Spray - For Men  (450 ml, Pack of 3)',
     rating: '4.2',
@@ -907,7 +907,7 @@ const products = [
     ],
   },
   {
-    categories: 'Beauty and Cosmetics',
+    categories: 'architect',
     id: '40',
     title: 'BOROPLUS Antiseptic + Moisturising Soap - Neem, Eucalyptus & Honey  (6 x 125 g)',
     rating: '4.4',
@@ -928,7 +928,7 @@ const products = [
     ],
   },
   {
-    categories: 'Beauty and Cosmetics',
+    categories: 'architect',
     id: '41',
     title: 'FOGG 1 Royal and 1 Napoleon Deodorant Combo Pack of 2 Deodorant Spray - For Men  (300 ml, Pack of 2)',
     rating: '4.3',
@@ -947,7 +947,7 @@ const products = [
     ],
   },
   {
-    categories: 'Beauty and Cosmetics',
+    categories: 'architect',
     id: '42',
     title: 'GARNIER Skin Naturals Bright Complete Brightening Face Wash  (200 g)',
     rating: '4.5',
@@ -969,7 +969,7 @@ const products = [
     ],
   },
   {
-    categories: 'phone',
+    categories: 'architect',
     id: '43',
     title: 'OnePlus Nord 2 5G (Gray Sierra, 8GB RAM, 128GB Storage)',
     rating: '4.8',
@@ -1001,7 +1001,7 @@ const products = [
     ],
   },
   {
-    categories: 'phone',
+    categories: 'developper',
     id: '44',
     title: 'Samsung Galaxy M31 (Ocean Blue, 6GB RAM, 128GB Storage)',
     rating: '4.1',
@@ -1042,7 +1042,7 @@ const products = [
     ],
   },
   {
-    categories: 'Beauty and Cosmetics',
+    categories: 'architect',
     id: '45',
     title: 'Aroma Magic Face Wash 100 ml (Charcoal)',
     rating: '4.8',
@@ -1065,7 +1065,7 @@ const products = [
     ],
   },
   {
-    categories: 'Beauty and Cosmetics',
+    categories: 'architect',
     id: '46',
     title: 'NIVEA Men Face Wash, Deep Impact Intense Clean, for Beard & Face, with Black Carbon, 100 g',
     rating: '4.2',
@@ -1087,7 +1087,7 @@ const products = [
     ],
   },
   {
-    categories: 'fashion',
+    categories: 'developper',
     id: '47',
     title: 'Rozior® Kids Sunglass with UV Protection Green Mirror Lens with Black Frame, MODEL: RWUK1028M1',
     rating: '4.4',
@@ -1108,7 +1108,7 @@ const products = [
     ],
   },
   {
-    categories: 'fashion',
+    categories: 'developper',
     id: '48',
     title: "Skeletos Men's Wayfarer Sunglasses (Black Frame, Black Lens)",
     rating: '4.5',
@@ -1129,7 +1129,7 @@ const products = [
     ],
   },
   {
-    categories: 'fashion',
+    categories: 'student',
     id: '49',
     title: "Campus Men's VIBGYOR Running Shoes",
     rating: '4.3',
@@ -1150,7 +1150,7 @@ const products = [
     ],
   },
   {
-    categories: 'fashion',
+    categories: 'designer',
     id: '50',
     title: "Sparx Men's Running Shoes",
     rating: '4.8',

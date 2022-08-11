@@ -22,8 +22,8 @@ export default function handler(
 ) {
   res.setHeader("Access-Control-Allow-Origin", "*");
   const {profil}=req.query
-  if(profil==='designer'){
-    const newProducts=products.filter(product=>product.categories==='Electronics')
+  if(profil){
+    const newProducts=products.filter(product=>product.categories===profil)
     res.status(200).json([...newProducts]);
   }else{
   res.status(200).json([...products]);
