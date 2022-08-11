@@ -20,5 +20,11 @@ export default function handler(
   req: NextApiRequest,
   res: NextApiResponse<Data>
 ) {
+  const {profil}=req.query
+  if(profil==='designer'){
+    const newProducts=products.filter(product=>product.categories==='Electronics')
+    res.status(200).json([...newProducts]);
+  }else{
   res.status(200).json([...products]);
+}
 }
