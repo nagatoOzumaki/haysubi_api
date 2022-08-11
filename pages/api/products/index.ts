@@ -20,6 +20,7 @@ export default function handler(
   req: NextApiRequest,
   res: NextApiResponse<Data>
 ) {
+  res.setHeader("Access-Control-Allow-Origin", "*");
   const {profil}=req.query
   if(profil==='designer'){
     const newProducts=products.filter(product=>product.categories==='Electronics')
