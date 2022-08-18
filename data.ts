@@ -301,7 +301,8 @@ const products = [
   {
     categories: 'gamer',
     id: '12',
-    title: 'Canon EOS 3000D DSLR Camera 1 Camera Body, 18 - 55 mm Lens  (Black) ',
+    title:
+      'Canon EOS 3000D DSLR Camera 1 Camera Body, 18 - 55 mm Lens  (Black) ',
     rating: '4.3',
     description:
       'Self-Timer | Type C and Mini HDMI, |9 Auto Focus Points | 35x Optical Zoom., Effective Pixels: 18 MP APS-C CMOS sensor-which is 25 times larger than a typical Smartphone sensor., WiFi | Full HD | Video Recording at 1080 p on 30fps.',
@@ -324,7 +325,8 @@ const products = [
   {
     categories: 'gamer',
     id: '13',
-    title: 'HP 27 inch Full HD LED Backlit IPS Panel Monitor (27m)  33000 mAh Power Bank  (Blue, Lithium-ion)',
+    title:
+      'HP 27 inch Full HD LED Backlit IPS Panel Monitor (27m)  33000 mAh Power Bank  (Blue, Lithium-ion)',
     rating: '4.2',
     description:
       '(Frameless, Response Time: 5 ms, 60 Hz Refresh Rate) N4020/4GB/64GB SSD/Chrome OS/Integrated Graphics, Ceremic White, 35.6 cm (14 inch)',
@@ -347,7 +349,8 @@ const products = [
   {
     categories: 'gamer',
     id: '14',
-    title: 'Worricow Deep Bass Wireless Portable Bluetooth Mp3 Headphone MP3 Player ',
+    title:
+      'Worricow Deep Bass Wireless Portable Bluetooth Mp3 Headphone MP3 Player ',
     rating: '4.0',
     description:
       'WORRICOW Presents P-47 HEADPHONE:-With a combination of great sound, ergonomic design, and modern appeal the headphones are a great fit for anyone who wants to enjoy their tunes. Wear your headphones all day without discomfort. Alter the headband to fit perfectly and securely on your head.',
@@ -477,495 +480,99 @@ const products = [
     ],
   },
   {
-    categories: 'student',
+    categories: 'gamer',
     id: '20',
-    title: 'CEAT POPLAR WILLOW CRICKET BAT (No- 6) Poplar Willow Cricket Bat  (0.900 g) ',
-    rating: '3.6',
+    title:
+      'Dell Inspiron 15 3000 Series 3511 Laptop, 15.6" FHD Touchscreen Anti-Glare, 11th Gen Intel Core i5-1135G7 Quad-Core Processor, 16GB RAM, 512GB SSD, HDMI, Webcam, Windows 11, Black (Latest Model)',
+    rating: '4.4',
     description:
-      'Advanced, Training, Beginner Playing Level Bat Grade: Grade 3 Sport Type: Cricket Weight Range 0.900 g',
-    price: '₹305',
-
+      'Care Instructions: Wash with mild detergent, do not bleach, dry in shade Fit Type: regular fit 60% cotton and 40% polyester Regular fit ',
+    price: '₹1900',
     image: [
-      'https://rukminim1.flixcart.com/image/416/416/jvqzo280/bat/q/b/a/0-900-poplar-willow-cricket-bat-no-6-6-1-ceat-original-imafggjgczcwszky.jpeg?q=70',
-      'https://rukminim1.flixcart.com/image/416/416/jvqzo280/bat/q/b/a/0-900-poplar-willow-cricket-bat-no-6-6-1-ceat-original-imafgjxgp4uhyz4y.jpeg?q=70',
-      'https://rukminim1.flixcart.com/image/416/416/k2m6ufk0/bat/q/a/r/1160-1220-short-handle-sikander-1000-cb-1149-sh-spartan-original-imafkfvahbp7scbx.jpeg?q=70',
-      'https://rukminim1.flixcart.com/image/416/416/jvqzo280/bat/q/b/a/0-900-poplar-willow-cricket-bat-no-6-6-1-ceat-original-imafggjgczcwszky.jpeg?q=70',
+      'https://m.media-amazon.com/images/I/41LcO6C4TiL._AC_US40_.jpg',
+      ' https://m.media-amazon.com/images/I/41zcqhe8uNL._AC_US40_.jpg',
+      'https://m.media-amazon.com/images/I/51R3o3kbFLL._AC_SX679_.jpg',
+      'https://m.media-amazon.com/images/I/31jeCo1WKML._AC_US40_.jpg',
+      ' https://m.media-amazon.com/images/I/31DW2R+VwqL._AC_US40_.jpg',
+      'https://m.media-amazon.com/images/I/31BTgZh0YuL._AC_US40_.jpg',
+      ' https://m.media-amazon.com/images/I/51vGw0IfBPL._AC_SX679_.jpg',
     ],
-
     review: [
-      'Super and nice bat . Worth the money . And very light weight Thanks to flip kart.',
-      'This bat is very super it is for only 11 to 15 this is very strong also I love this bat this bat is very no cost only 3 45 rupees only',
-      'Great bat',
+      'Simply super and value for money deal. Fits well as well and the cut in the sides look very nice. Loved it. Ordering more in other colors. 5 star rating. ',
+      'Good quality polo from allen solly....got it for 449 rupees....i read so many reviews which says fake product...but this one is original...comfort is also good...i really liked it.... ',
+      'Allen solly is always my fav brand because of fabic fitting n all ',
+      'Very good quality and fittings.',
     ],
   },
-
   {
-    categories: 'student',
+    categories: 'gamer',
     id: '21',
-    title: 'JetFire Regular Wicket Keeping Gloves Combo With Inner Gloves(Men, Blue) Wicket Keeping Gloves  (Blue) ',
-    rating: '4.0',
+    title:
+      '2022 Newest Dell Inspiron 3510 Laptop, 15.6 HD Display, Intel Celeron N4020 Processor, 16GB DDR4 RAM, 1TB HDD, Webcam, WiFi, HDMI, Bluetooth, Win10 Home, Black',
+    rating: '4.4',
     description:
-      'Made from high quality PVC cuffs Rubber grip on the front face of the Glove Cloth lining in the cuffs Color May Vary Ideal for Beginners & Above',
-    price: '₹584',
-
+      'Care Instructions: Wash with mild detergent, do not bleach, dry in shade Fit Type: regular fit 60% cotton and 40% polyester Regular fit ',
+    price: '₹1900',
     image: [
-      'https://rukminim1.flixcart.com/image/416/416/jx502vk0/sport-glove/c/u/q/left-right-college-wicket-keeping-gloves-combo-with-inner-gloves-original-imafhmyzeyvphgzn.jpeg?q=70',
-      'https://rukminim1.flixcart.com/image/416/416/jzlldow0/sport-glove/f/d/f/left-right-regular-wicket-keeping-gloves-combo-with-inner-gloves-original-imafhmynjumq637j.jpeg?q=70',
-      'https://rukminim1.flixcart.com/image/416/416/jx502vk0/sport-glove/c/u/q/left-right-college-wicket-keeping-gloves-combo-with-inner-gloves-original-imafhmyzhpdzwyxz.jpeg?q=70',
-      'https://rukminim1.flixcart.com/image/416/416/jx502vk0/sport-glove/c/u/q/left-right-college-wicket-keeping-gloves-combo-with-inner-gloves-original-imafhmyzygyznngh.jpeg?q=70',
+      'https://m.media-amazon.com/images/I/41BWn9MEkdL._AC_US40_.jpg',
+      'https://m.media-amazon.com/images/I/41C+7GKW-vL._AC_US40_.jpg',
+      'https://m.media-amazon.com/images/I/4197in2AAKL._AC_US40_.jpg',
+      'https://m.media-amazon.com/images/I/31JH2ic3gzL._AC_US40_.jpg',
     ],
-
     review: [
-      'Best gloves 👍👍 👍',
-      'Awsm Gloves 😍😍',
-      'Wonderful product just by supherb 👍👌👌 worth of money',
+      'Simply super and value for money deal. Fits well as well and the cut in the sides look very nice. Loved it. Ordering more in other colors. 5 star rating. ',
+      'Good quality polo from allen solly....got it for 449 rupees....i read so many reviews which says fake product...but this one is original...comfort is also good...i really liked it.... ',
+      'Allen solly is always my fav brand because of fabic fitting n all ',
+      'Very good quality and fittings.',
     ],
   },
 
   {
-    categories: 'student',
+    categories: 'gamer',
     id: '22',
-    title: 'NODENS Cricket Bat Grip, (Multicolour Pack of 6) Mesh Grip  (White, Pack of 6) ',
-    rating: '4.1',
+    title:
+      'HP 15.6-inch Laptop, 11th Generation Intel Core i5-1135G7, Intel Iris Xe Graphics, 8 GB RAM, 256 GB SSD, Windows 11 Home (15-dy2024nr, Natural silver)',
+    rating: '4.4',
     description:
-      'The batsman in the game of cricket has an exceptionally challenging role to play as he is the one who takes the game forward for his team',
-    price: '₹279',
-
+      'Care Instructions: Wash with mild detergent, do not bleach, dry in shade Fit Type: regular fit 60% cotton and 40% polyester Regular fit ',
+    price: '₹1900',
     image: [
-      'https://rukminim1.flixcart.com/image/416/416/k0bbb0w0/grip/g/f/q/cricket-bat-grip-6-multicolour-pack-of-6-nodens-original-imafjyahuhedgzvw.jpeg?q=70',
-      'https://rukminim1.flixcart.com/image/416/416/k0bbb0w0/grip/g/f/q/cricket-bat-grip-6-multicolour-pack-of-6-nodens-original-imafjyahe8gs9hmt.jpeg?q=70',
-      'https://rukminim1.flixcart.com/image/416/416/k0463rk0/grip/t/s/j/cricket-bat-grip-multicolour-pack-of-6-6-cricket-bat-grip-nodens-original-imafjyzfsed6ag29.jpeg?q=70',
-      'https://rukminim1.flixcart.com/image/416/416/k0bbb0w0/grip/g/f/q/cricket-bat-grip-6-multicolour-pack-of-6-nodens-original-imafjyahuhedgzvw.jpeg?q=70',
+      'https://m.media-amazon.com/images/I/31JH2ic3gzL._AC_US40_.jpg',
+      'https://m.media-amazon.com/images/I/410WH9JVaQL._AC_US40_.jpg',
+      'https://m.media-amazon.com/images/I/41h-xNfhAiL._AC_US40_.jpg',
+      'https://m.media-amazon.com/images/I/51SMMRYkTZL._AC_US40_.jpg',
+      'https://m.media-amazon.com/images/I/41fV3UBf8-L._AC_US40_.jpg',
     ],
-
     review: [
-      "Nice grip but which is I ordered ... I not get that grip ..... It's different colour.... ",
-      'Very good osm',
-      'Nice colors',
+      'Simply super and value for money deal. Fits well as well and the cut in the sides look very nice. Loved it. Ordering more in other colors. 5 star rating. ',
+      'Good quality polo from allen solly....got it for 449 rupees....i read so many reviews which says fake product...but this one is original...comfort is also good...i really liked it.... ',
+      'Allen solly is always my fav brand because of fabic fitting n all ',
+      'Very good quality and fittings.',
     ],
   },
-
   {
-    categories: 'student',
+    categories: 'gamer',
     id: '23',
-    title: 'Aurion Cricket Bag Shoulder Straps Sports Cricket Kit Bag for 2 Bat Caves with 2 pockets  (Multicolor, Kit Bag)',
-    rating: '4.5',
-    description:
-      'Cricket Easy zip opening access Straps for easy transportability Padded Adjustable Shoulder Straps & Hanger Multiple External Pockets 2 Bat Caves, One front pocket one main compartment',
-    price: '₹449',
-
-    image: [
-      'https://rukminim1.flixcart.com/image/416/416/knxiavk0/sport-bag/0/g/m/40-l-cricket-bag-shoulder-straps-sports-cricket-kit-bag-for-2-original-imag2hwraj2kcukq.jpeg?q=70',
-      'https://rukminim1.flixcart.com/image/416/416/knxiavk0/sport-bag/t/3/u/40-l-cricket-bag-shoulder-straps-sports-cricket-kit-bag-for-2-original-imag2hwrf3qggbx2.jpeg?q=70',
-      'https://rukminim1.flixcart.com/image/416/416/knxiavk0/sport-bag/r/f/k/40-l-cricket-bag-shoulder-straps-sports-cricket-kit-bag-for-2-original-imag2hwrzecfbz6s.jpeg?q=70',
-      'https://rukminim1.flixcart.com/image/416/416/knxiavk0/sport-bag/9/e/o/40-l-cricket-bag-shoulder-straps-sports-cricket-kit-bag-for-2-original-imag2hwrz9yza2zb.jpeg?q=70',
-    ],
-
-    review: [
-      'super ',
-      'Nice bag with enough space and above all its material quality is excellent... Go for it...t',
-      'Really super product',
-    ],
-  },
-
-  {
-    categories: 'student',
-    id: '24',
-    title: 'SBM  Cricket Ball (Pack Of 12) Cricket Ball  (Pack of 12, Green) ',
-    rating: '3.7',
-    description: 'Cricket Ball Green Pack Of 12',
-    price: '₹339',
-
-    image: [
-      'https://rukminim1.flixcart.com/image/416/416/jwpa8i80/ball/p/t/h/160-180-standard-7-35-adrenex-prime-leather-ball-red-1-lbfksg2-original-imafhbz4kgjjeyub.jpeg?q=70',
-      'https://rukminim1.flixcart.com/image/416/416/jwpa8i80/ball/p/t/h/160-180-standard-7-35-adrenex-prime-leather-ball-red-1-lbfksg2-original-imafhbz46nhajzhk.jpeg?q=70   ',
-      'https://rukminim1.flixcart.com/image/416/416/jwpa8i80/ball/5/6/8/160-180-standard-7-25-adrenex-prime-leather-ball-red-1-lbfksg4-original-imafhbz4e8upz68s.jpeg?q=70',
-      'https://rukminim1.flixcart.com/image/416/416/jwpa8i80/ball/p/t/h/160-180-standard-7-35-adrenex-prime-leather-ball-red-1-lbfksg2-original-imafhbz4ffkyqem7.jpeg?q=70',
-    ],
-
-    review: [
-      'every good product nice ball good puality ',
-      'just ok for practice but not for playing matches',
-      'Great picture quality, easy to setup. Simply Mindblowing',
-    ],
-  },
-  {
-    categories: 'student',
-    id: '25',
-    title: 'NIVIA Storm Football - Size: 5',
+    title:
+      'Windows 10 Laptop Computers, CHUWI GemiBook 13 inch Thin & Light Laptop 8G RAM 256GB SSD with Celeron J4125 Processor, 2160x1440 2K IPS Display Notebook, PD Fast Charge, Backlit Keyboard, Full Metal',
     rating: '4.4',
     description:
-      'Playing a sport like football helps the players strengthen team spirit and the same time keeps them fit. This Nivia Storm Football - 5 allows you to play a few matches with friends or colleagues when you have free time. Offers optimum response and feel',
-    price: '₹379',
-
+      'Care Instructions: Wash with mild detergent, do not bleach, dry in shade Fit Type: regular fit 60% cotton and 40% polyester Regular fit ',
+    price: '₹1900',
     image: [
-      'https://rukminim1.flixcart.com/image/416/416/jxqfonk0/kit/3/3/r/football-training-kit-kit2-nivia-original-imaf42fyevkzq8hz.jpeg?q=70',
-      'https://rukminim1.flixcart.com/image/416/416/kjkbv680-0/ball/s/o/g/420-470-storm-22-5-1-niviafb354-football-nivia-original-imafz3uzeht5wgmt.jpeg?q=70',
-      'https://rukminim1.flixcart.com/image/416/416/kjkbv680-0/ball/s/5/e/420-470-storm-22-5-1-niviafb354-football-nivia-original-imafz3uz6qf4fzmm.jpeg?q=70',
-      'https://rukminim1.flixcart.com/image/416/416/kjkbv680-0/ball/9/n/k/420-470-storm-22-5-1-niviafb354-football-nivia-original-imafz3uzhjhz4khg.jpeg?q=70',
+     'https://m.media-amazon.com/images/I/41u5Oxvd0TL._AC_US40_.jpg',
+      'https://m.media-amazon.com/images/I/51SIwjoVgjL._AC_US40_.jpg',
+      'https://m.media-amazon.com/images/I/41+CgA1yJYL._AC_US40_.jpg',
+      'https://m.media-amazon.com/images/I/518ak1aNJRS._AC_US40_.jpg',
+      'https://m.media-amazon.com/images/I/515UJcRXhxS._AC_US40_.jpg',
+      'https://m.media-amazon.com/images/I/515UJcRXhxS._AC_US40_.jpg'
     ],
-
-    review: [
-      'The ball was quite good but is somewhat hard to play and the color was awesome I ordered in Flipkart for first time they gave their best and ekart delivered the ball at 12:30 am they did it correctly on time',
-      'More delighted to play with little hard rubber made ball. Good graffiti designed so looks great. Totally satisfied with it & I will recommend to others because good product in affordable range.',
-      'I got it today. Like it. Very nice good quality football. You must buy it. Thank you flipkart and nivia.',
-    ],
-  },
-  {
-    categories: 'student',
-    id: '26',
-    title: 'COSCO HI-GRIP Basketball - Size: 7',
-    rating: '4.7',
-    description: 'Cricket Ball Green Pack Of 12',
-    price: '₹616',
-
-    image: [
-      'https://rukminim1.flixcart.com/image/416/416/klscivk0/ball/v/v/b/550-7-hi-grip-13018-basketball-cosco-original-imagytvdbxays3z2.jpeg?q=70',
-      'https://rukminim1.flixcart.com/image/416/416/kj1r53k0-0/ball/7/a/t/260-280-hi-grip-s-6-basketball-size-6-pack-of-1-orange-6-24-1-hi-original-imafypdxghzzvdks.jpeg?q=70',
-      'https://rukminim1.flixcart.com/image/416/416/kj1r53k0-0/ball/t/e/n/260-280-hi-grip-s-6-basketball-size-6-pack-of-1-orange-6-24-1-hi-original-imafypdxvwgwkcbv.jpeg?q=70',
-    ],
-
-    review: [
-      "Awesome grip. It Was really cool that I got this cosco's ball in pretty less bugget. Love u flipkart",
-      'Very good product and good quality',
-      'Happy with the quality and fast delivery',
-    ],
-  },
-  {
-    categories: 'student',
-    id: '27',
-    title: 'LI-NING Windstorm Nano 73 Professional Badminton Racquet',
-    rating: '3.9',
-    description:
-      'Lightweight just got a new word in the dictionary and its the Li-Ning windstorm series. The Windstorm technology included in the Windstorm Nano 73 delivers a feather-like 73-gram weight and makes this racket flag bearer of speed and control. ',
-    price: '₹8,990',
-
-    image: [
-      'https://rukminim1.flixcart.com/image/416/416/kfa0b680/racquet/8/v/2/g4-3-25-inches-unstrung-windstorm-nano-73-professional-badminton-original-imafvsy4ccvg7gtc.jpeg?q=70',
-      'https://rukminim1.flixcart.com/image/416/416/kfa0b680/racquet/8/v/2/g4-3-25-inches-unstrung-windstorm-nano-73-professional-badminton-original-imafvsy4yghtspm7.jpeg?q=70',
-      'https://rukminim1.flixcart.com/image/416/416/kfa0b680/racquet/8/v/2/g4-3-25-inches-unstrung-windstorm-nano-73-professional-badminton-original-imafvsy4m4gueymp.jpeg?q=70',
-    ],
-
-    review: [
-      'every good product nice ball good puality ',
-      'just ok for practice but not for playing matches',
-      'Great picture quality, easy to setup. Simply Mindblowing',
-    ],
-  },
-  {
-    categories: 'student',
-    id: '28',
-    title: "Classic Polo Men's Regular Fit",
-    rating: '4.4',
-    description:
-      "Classic Polo Men's Regular Fit Polo T-Shirt (B07YYGMTZM_Purple, Violet_XXXX-Large)Classic Polo Men's Regular Fit Polo T-Shirt (B07YYGMTZM_Purple, Violet_XXXX-Large)",
-    price: '₹1800',
-    image: [
-      'https://m.media-amazon.com/images/I/81NGSl3bGvL._UL1500_.jpg',
-      'https://m.media-amazon.com/images/I/81c+BcygzmL._UL1500_.jpg',
-      'https://m.media-amazon.com/images/I/81ZZfHwe9lL._UL1500_.jpg',
-      'https://m.media-amazon.com/images/I/81EIbMUEhVL._UL1500_.jpg',
-    ],
+      
     review: [
       'Simply super and value for money deal. Fits well as well and the cut in the sides look very nice. Loved it. Ordering more in other colors. 5 star rating. ',
-      'Excellent in fitting color little dull ',
-      'Awesome...... This product fired to me as I expected........',
-      ' Good ',
-    ],
-  },
-  {
-    categories: 'student',
-    id: '29',
-    title: "Benetton Men's Slim Polo Shirt",
-    rating: '4.2',
-    description:
-      "United Colors of Benetton Men's Slim Polo Shirt (3081J7107I_RED XL) United Colors of Benetton Men's Slim Polo Shirt",
-    price: '₹1500',
-    image: [
-      'https://images-na.ssl-images-amazon.com/images/I/81XSu2qqGvL._UX466_.jpg',
-      'https://m.media-amazon.com/images/I/81A2WhfqG-L._UL1500_.jpg',
-      'https://m.media-amazon.com/images/I/814LFcn0EYL._UL1500_.jpg',
-      'https://m.media-amazon.com/images/I/71kJZst7-nL._UL1500_.jpg',
-    ],
-    review: [
-      'Simply super and value for money deal. Fits well as well and the cut in the sides look very nice. Loved it. Ordering more in other colors. 5 star rating. ',
-      ' love it. Very nice product. ',
-      'Best quality ever',
-      "Got both colors as shown in the image, the seam is neat and strong, Fit is also perfect, and as the caption says, the fabric is really soft but not thin, which is great in my opinion, I got it at a discounted price from MRP so it's a steal! Thanks Wear Your Opinion ",
-    ],
-  },
-  {
-    categories: 'student',
-    id: '30',
-    title: 'GODFREY Cotton Polo',
-    rating: '4.1',
-    description:
-      'GODFREY Cotton Polo Neck Half Sleeve Mens T Shirt Size - Small (S / 36)',
-    price: '₹1300',
-    image: [
-      'https://images-na.ssl-images-amazon.com/images/I/71WtmkxWXbS._UY741_.jpg',
-      'https://m.media-amazon.com/images/I/81XsDwxALGS._UL1500_.jpg',
-      'https://m.media-amazon.com/images/I/71PFg9KqM6S._UL1500_.jpg',
-      'https://m.media-amazon.com/images/I/71hXi3t4lzS._UL1500_.jpg',
-    ],
-    review: [
-      'Built quality and stitches are perfect. Looks decent, overall perfect for regular office wear. ',
-      'Perfect elegant look. I am totaly satisfied with product. Good quality. After 5 washes also it is still with same shine. Impressed with quality ',
-      'Good Product. Colour is awesome',
-      'Good quality material, fit as expected and soft fabric. Satisfied with the quality.',
-    ],
-  },
-  {
-    categories: 'student',
-    id: '31',
-    title: "Adidas Men's Drogo M Running Shoes",
-    rating: '3.4',
-    description:
-      'Closure: Lace-Up Shoe Width: Medium Material Type: Mesh Lifestyle: Sports Closure Type: Lace-Up',
-    price: '₹4900',
-    image: [
-      'https://m.media-amazon.com/images/I/81foDd-vw0L._AC_UL480_FMwebp_QL65_.jpg',
-      'https://m.media-amazon.com/images/I/71s3dnOiZrL._UL1500_.jpg',
-      'https://m.media-amazon.com/images/I/71YJqNNvG-L._UL1500_.jpg',
-      'https://m.media-amazon.com/images/I/71Z2a72XwzL._UL1500_.jpg',
-    ],
-    review: [
-      'Base of shoe is having good quality very lightweight to use ',
-      "Got it during great indian sale with the offer.Quality looks good.very comfortable.cant comment on reliability without usage .Looks original ,Bar codes did work.Didn't feel confident while doing sprint or fast runs ,as it is extremely light weight.",
-      'The product seems nice and genuine! A good quality product with good quality packing by. Great job Amazon...',
-      'Good Quality ',
-    ],
-  },
-  {
-    categories: 'architect',
-    id: '32',
-    title: "Reebok Men's Fast Motion ",
-    rating: '4.1',
-    description:
-      "Reebok Men's Fast Motion Run Lp Shoe Reebok Men's Fast Motion Run Lp Shoe",
-    price: '₹3900',
-    image: [
-      'https://images-na.ssl-images-amazon.com/images/I/71NRk6xv7-S._UL1500_.jpg',
-      'https://m.media-amazon.com/images/I/719ehdzCz-S._UL1500_.jpg',
-      'https://m.media-amazon.com/images/I/71Yh+3Lr5MS._UL1282_.jpg',
-      'https://m.media-amazon.com/images/I/71mAVSpieOS._UL1500_.jpg',
-    ],
-    review: [
-      'Using it for running/walking on different surfaces like concrete, uneven terrain, etc, and it does a great job by providing enough cushioning for my feet. Definitely recommend. ',
-      'Shoes was flexible to run & really it was a fabulous product...please go for it',
-      'very vice and comfort and resonable price ',
-      " It's color and design is as same as in pictures and the fitting is good but the pasting of the product is not so much good. It's appearing to be 1st copy according to pasting.",
-    ],
-  },
-  {
-    categories: 'architect',
-    id: '33',
-    title: 'Navy Running Shoes-6 UK',
-    rating: '4.2',
-    description:
-      'FURO by Redchief Men Navy Running Shoes-6 UK (40 EU) (R1013 C585_6) FURO by Redchief Men Navy Running Shoes-6 UK (40 EU) (R1013 C585_6)',
-    price: '₹2900',
-    image: [
-      'https://m.media-amazon.com/images/I/61ka6aqLRqL._UL1440_.jpg',
-      'https://m.media-amazon.com/images/I/71huRQQhouL._UL1440_.jpg',
-      'https://m.media-amazon.com/images/I/610ir8rXf4L._UL1440_.jpg',
-      'https://m.media-amazon.com/images/I/610+Aq+6qwL._UL1440_.jpg',
-    ],
-    review: [
-      'Good same as like ',
-      "Hat's off to redchief once again for such a mesmerizing product. Great quality and and worth the money spent.Looks and texture may leave you open eyed.Looking forward for redchief amzon combo in future. ",
-      'Superb ... Best gift to my dear friend...',
-      'Good product and it is delivered early. ',
-    ],
-  },
-  {
-    categories: 'architect',
-    id: '34',
-    title: 'Ray-Ban Men Square Sunglasses',
-    rating: '4.4',
-    description:
-      'Model Number 601S71 Part Number: 601S71 Frame Color:Black , Lens Color: Green Frame type:Full Rim, Lens type:Non polarized Frame Material: Composite Lens Width : 56 mm Bridge Width : 20 mm Temple Length : 145 mm',
-    price: '₹3000',
-    image: [
-      'https://images-na.ssl-images-amazon.com/images/I/61CobOBk6cL._UL1500_.jpg',
-      'https://m.media-amazon.com/images/I/51fxHWzCqES._UL1500_.jpg',
-      'https://m.media-amazon.com/images/I/51SJSQEuSOS._UL1500_.jpg',
-      'https://m.media-amazon.com/images/I/51gqpuiOinS._UL1500_.jpg',
-    ],
-    review: [
-      'Its rayban....what more to say about comfortness.',
-      'Same as description, original labels and hologram available. ',
-      'Good one, I got it for Amazon lightening deal. Its a genuine Ray-Ban, great quality, looks are descent but was a bit oversized. ',
-      'Its nice if you like the black shade! ',
-    ],
-  },
-  {
-    categories: 'architect',
-    id: '35',
-    title: 'NIVEA Soft Moisturizing Cream  (200 ml)',
-    rating: '4.5',
-    description:
-      'Get smooth and radiant skin by using this Nivea Moisturiser. This cream suits almost all skin types.Enriched with the goodness of vitamin E and Jojoba oil, this cream gently moisturizes your skin, leaving it soft and supple.',
-    price: '₹233',
-
-    image: [
-      'https://rukminim1.flixcart.com/image/416/416/kiow6fk0/combo-kit/z/g/d/body-milk-nourishing-lotion-600-ml-soft-light-moisturiser-100-ml-original-imafyf68fxskcznz.jpeg?q=70',
-      'https://rukminim1.flixcart.com/image/416/416/kiow6fk0/moisturizer-cream/n/g/s/300-soft-moisturizing-cream-cream-nivea-original-imafyf68v2yhmyys.jpeg?q=70',
-      'https://rukminim1.flixcart.com/image/416/416/kiow6fk0/moisturizer-cream/n/g/s/300-soft-moisturizing-cream-cream-nivea-original-imafyf68hzvhf24z.jpeg?q=70',
-      'https://rukminim1.flixcart.com/image/416/416/kiow6fk0/moisturizer-cream/n/g/s/300-soft-moisturizing-cream-cream-nivea-original-imafyf68jjesn6zq.jpeg?q=70',
-    ],
-    review: [
-      'This is one of the most hydrating cream. Can be used before makeup as well. Gives a tender fragrance and has a great texture It has a good packing and quick delivery.',
-      "This has been a necessity now of my daily routine. I prefer this light moisturizer more than any fantasy cream out there in the market. Affordable and gets your face hydrated throughout. Best suitable for every skin type and don't expect this cream to make you fair or make you look like a star but one thing I can guarantee you is that it will make your skin soft and shooting to touch.",
-      "I like the Moisturizer..The biggest thing is that the market price is 299 and 223 in Flipkart is a great thing.. So I'm happy to shop with Flipkart..",
-      'Love you Nivea for this Soft Moisturizer. This is Suitable for Dry skin, Can be used as Face cream as Well as Cold cream. Iam loving it ',
-    ],
-  },
-  {
-    categories: 'architect',
-    id: '36',
-    title: 'DOVE Intense Repair Conditioner  (175 ml)',
-    rating: '4.4',
-    description:
-      'Beautiful and healthy hair is just a wash away. This conditioner gently repairs the signs of damage by penetrating deep into the hair strands and provides nourished and strong hair.It deeply penetrates into the hair and strengthens them, reducing damage.',
-    price: '₹125',
-
-    image: [
-      'https://rukminim1.flixcart.com/image/416/416/krz97rk0/conditioner/y/q/7/intense-repair-conditioner-dove-original-imag5nknhe7zevmf.jpeg?q=70',
-      'https://rukminim1.flixcart.com/image/416/416/krz97rk0/conditioner/l/q/t/intense-repair-conditioner-dove-original-imag5nknhzyga9hv.jpeg?q=70',
-      'https://rukminim1.flixcart.com/image/416/416/krz97rk0/shampoo/r/c/s/intense-repair-shampoo-dove-original-imag5nkkkhntseth.jpeg?q=70',
-      'https://rukminim1.flixcart.com/image/416/416/krz97rk0/conditioner/c/j/8/daily-shine-conditioner-dove-original-imag5nkjsezpavre.jpeg?q=70',
-    ],
-    review: [
-      'Good product I got this product one-day earlier! Using this product my hair is so manageable ,frizz free,and all the claims offered by the dove company is true .Thanks Filpkart for the fast delivery .',
-      "The packaging was good and the product is good as I've used it earlier as well..got it in only 123/- amazing deal..",
-      'i always love dove range. and its amazingly delivered by the seller without any defect.',
-      'This shampoo was really good after three days of wash.it feels like today i washed my hairs...i love to.buy it again.',
-    ],
-  },
-  {
-    categories: 'architect',
-    id: '37',
-    title: 'Clean & Clear Face Wash  (450 ml)',
-    rating: '4.5',
-    description:
-      'Clean & Clear Foaming Face Wash helps prevent oily skin and pimples. Its rich foam gently cleanses to remove dirt without drying your skin. It is specially designed unique formulation cleanses skin thoroughly preventing common skin problems. Gentle enough to use every day, it leaves your skin feeling clean and beautifully clear.',
-    price: '₹346',
-
-    image: [
-      'https://rukminim1.flixcart.com/image/416/416/kjkbv680-0/face-wash/l/r/7/450-face-wash-clean-clear-original-imafz3hz4fgwhfnf.jpeg?q=70',
-      'https://rukminim1.flixcart.com/image/416/416/kg5fzww0hlty2aw-0/face-wash/3/g/y/foaming-face-wash-clean-clear-original-imafwgjycfbzapb2.jpeg?q=70',
-      'https://rukminim1.flixcart.com/image/416/416/kg5fzww0hlty2aw-0/face-wash/g/r/0/foaming-face-wash-clean-clear-original-imafwgkfvznkq3zu.jpeg?q=70',
-      'https://rukminim1.flixcart.com/image/416/416/kg5fzww0hlty2aw-0/face-wash/f/5/f/foaming-face-wash-clean-clear-original-imafwgkfqcyvz7ng.jpeg?q=70',
-    ],
-    review: [
-      "It is awesome blossom. No damage , quality and quantity all is good. Clean and clear face wash is the best face wash ever and i have been using from 10 years. This face wash have not harmful chemicals. is the best for oily skin. Don't be think anything take it.",
-      'This Face is superb although could be little more cheaper but although good stuff for daily use...In one word just refreshing',
-      'Best face wash in market, go ahead and it is suitable for all skin types. Makes you feel clean and clear',
-      'It gives naturally soft smooth skin. It also works on normal to dry skin during summer; my skin never lost its natural nourishment. Now coming to the brightness part, yes it makes skin bright by removing the dullness from the face. My skin looks fresh and totally clear, so overall it looks very bright.',
-    ],
-  },
-  {
-    categories: 'architect',
-    id: '38',
-    title: 'Kesh King Scalp and Medicinal Ayurvedic Hair Oil  (100 ml)',
-    rating: '4.3',
-    description:
-      'Kesh King ayurvedic oil is a proprietary medicinal preparation without any side effects. It is a complete solution for hair related problems especially hair fall. It is prepared using tel pak vidhi as prescribed in ayurveda using 21 precious herbs cooked in sesame oil',
-    price: '₹144',
-
-    image: [
-      'https://rukminim1.flixcart.com/image/416/416/jwtkk280/hair-oil/g/f/v/100-scalp-and-hair-medicine-oil-100-ml-kesh-king-original-imafhf7fu3nhgzng.jpeg?q=70',
-      'https://rukminim1.flixcart.com/image/416/416/jwtkk280/hair-oil/g/f/v/100-scalp-and-hair-medicine-oil-100-ml-kesh-king-original-imafhf6pwzgyyfmp.jpeg?q=70',
-    ],
-    review: [
-      'Excellent Service by flipkart in lockdown situation genuine products love it ❤️ fast delivery',
-      'timely delivered. original product',
-      'Great Flipkart like alway. thanks Flipkart. MRP IS 320 but gave in 257. superb',
-      'Excellent product for reducing hair fall. the effect starts after few weeks of use',
-    ],
-  },
-  {
-    categories: 'architect',
-    id: '39',
-    title: 'SET WET Cool, Charm and Swag Avatar Deodorant Spray - For Men  (450 ml, Pack of 3)',
-    rating: '4.2',
-    description:
-      ' Kickstart your day with the masculine and refreshing fragrances of this Set Wet deo set. It contains the Set Wet Cool Avatar, Charm Avatar and Swag Avatar. Spritz on a few drops of any deo from this pack according to your mood and get ready to take on the world.',
-    price: '₹287',
-
-    image: [
-      'https://rukminim1.flixcart.com/image/416/416/jvtujrk0/deodorant/d/k/k/450-cool-charm-and-swag-avatar-deodorant-spray-set-wet-men-original-imafghmhghggfsgj.jpeg?q=70',
-      'https://rukminim1.flixcart.com/image/416/416/jvv9zm80/deodorant/d/k/k/450-cool-charm-and-swag-avatar-deodorant-spray-set-wet-men-original-imafghmhn4ht325r.jpeg?q=70',
-      'https://rukminim1.flixcart.com/image/416/416/jvv9zm80/deodorant/d/k/k/450-cool-charm-and-swag-avatar-deodorant-spray-set-wet-men-original-imafghmhnq4gyhut.jpeg?q=70',
-    ],
-    review: [
-      "good purchase but I am not satisfied with the product.there smell doesn't stay for long time and the charm and cool avatar, both have same fragrance.At last I want to say that I am not satisfied with the product....hope this information is useful for others.",
-      'Good product.... Charm and cool best for men and swag for girl........ 👌👌👌Best price..',
-      "I got it for just 177 so, never believed it to be genuine but it's original and it's really good. Cool and charm are refreshing and have mild smell. The Swag one is kind of fruity and strong smell and it's unique, feels more like a perfume than deodorant.",
-      'actually i dont like this deodorant .......but i want to say something that ......if u dont have money to buy any good deo this is best for you. i recommend if u have more budjet then buy code perfume that is awesome.',
-    ],
-  },
-  {
-    categories: 'architect',
-    id: '40',
-    title: 'BOROPLUS Antiseptic + Moisturising Soap - Neem, Eucalyptus & Honey  (6 x 125 g)',
-    rating: '4.4',
-    description:
-      'BoroPlus Antiseptic + Moisturising Soap Neem, Eucalyptus & Honey Kills 99.99% Germs^ and Kills Virus* Softens and Moisturises Skin From Indias No. 1 Antiseptic# Brand Recommended by Doctors Gives Healthy Skin Enriched with Antiseptic & Healing Power of Neem & Eucalyptus Moisturising power of Honey Protects your entire family Free from Paraben, Silicones and Artificial colorants Anti-bacterial Toilet soap: Grade 1. TFM 76%',
-    price: '₹197',
-
-    image: [
-      'https://rukminim1.flixcart.com/image/416/416/kfeamq80/soap/r/v/h/6-780-antiseptic-moisturising-soap-neem-eucalyptus-honey-pack-of-original-imafvvetamses4fg.jpeg?q=70',
-      'https://rukminim1.flixcart.com/image/416/416/kfeamq80/soap/r/v/h/6-780-antiseptic-moisturising-soap-neem-eucalyptus-honey-pack-of-original-imafvvetgzg5nzq3.jpeg?q=70',
-      'https://rukminim1.flixcart.com/image/416/416/kfeamq80/soap/r/v/h/6-780-antiseptic-moisturising-soap-neem-eucalyptus-honey-pack-of-original-imafvvetnbukh7ha.jpeg?q=70',
-    ],
-    review: [
-      'I am very happy with this soap. All the time my washroom is full of good fragrance because of it. Also it lasts long. Very good for summer I think',
-      'VERY IMPRESSIVE PRODUCT FROM BORO PLUS',
-      'Nice fragrance. You should be try once and then you will be addicted for this product. Blindly go for it. Value for money. Thanks',
-      'Awesome deal... Fragrance of this is very fantastic... recommended...',
-    ],
-  },
-  {
-    categories: 'architect',
-    id: '41',
-    title: 'FOGG 1 Royal and 1 Napoleon Deodorant Combo Pack of 2 Deodorant Spray - For Men  (300 ml, Pack of 2)',
-    rating: '4.3',
-    description:
-      'This Status fragrance body spray from Fogg is a power packed deodorant that offers more than you bargain for. This perfumed body spray has an invigorating scent which envelops you in a pleasant smell for a long time.',
-    price: '₹197',
-
-    image: [
-      'https://rukminim1.flixcart.com/image/416/416/kj4m0sw0-0/deodorant/q/n/7/300-1-royal-and-1-napoleon-deodorant-combo-pack-of-2-deodorant-original-imafyrcceg565zmf.jpeg?q=70',
-    ],
-    review: [
-      'first thing is tht delivery was soo fast thanks for the flipkart for tht n the product is good with a good packing i wl suggest go for it blindly.....',
-      'Excellent Product & Filpkart is Best ever Fastest Delivery 100% Genuine ! thank you',
-      'The product is just Awesome. It has an awesome flowery kind of smell. I liked both but the red one is my personal favourite. Product got delivered in just 2 days. Thanks to Flipkart for such awesome service.😎',
-      'Nice deodorant with good fragrance. It stays full day. I like it. Thanks flipkart for the good deal.',
-    ],
-  },
-  {
-    categories: 'architect',
-    id: '42',
-    title: 'GARNIER Skin Naturals Bright Complete Brightening Face Wash  (200 g)',
-    rating: '4.5',
-    description:
-      'Garnier Bright Complete is a womens facewash enriched with Yuzu Lemon essence. Yuzu Lemon is known as the King of Lemons since it contains a high concentration of Vitamin C and is known for its strong brightening, exfoliating and anti-oxidant properties. ',
-    price: '₹236',
-
-    image: [
-      'https://rukminim1.flixcart.com/image/416/416/ko8xtow0/face-wash/c/f/o/skin-naturals-bright-complete-brightening-face-wash-garnier-original-imag2qyq23wccmhu.jpeg?q=70',
-      'https://rukminim1.flixcart.com/image/416/416/ko8xtow0/face-wash/6/d/n/skin-naturals-bright-complete-brightening-face-wash-garnier-original-imag2qyqehjg3ayu.jpeg?q=70',
-      'https://rukminim1.flixcart.com/image/416/416/ko8xtow0/face-wash/0/u/p/skin-naturals-bright-complete-brightening-face-wash-garnier-original-imag2qyqbzvuv6we.jpeg?q=70',
-      'https://rukminim1.flixcart.com/image/416/416/ko8xtow0/face-wash/6/g/y/skin-naturals-bright-complete-brightening-face-wash-garnier-original-imag2qyqtbahdnmt.jpeg?q=70',
-    ],
-    review: [
-      'Yes it is very nice and gives smoother skin with lite lighten fairness on daily basis use thank u Flipkart and thank u Ravi for u r polite delivery from ekart logistics',
-      'Nice face wash you will get best result when u use garnier cream with it ...all in all i like this facewash',
-      'Good price and good deal. Effective gave wash and its suitable for all skin types.',
-      'Best facewash which I found ever. This makes my face clear and beautiful essence which last for atleast 6 hours. You must go for it.',
+      'Good quality polo from allen solly....got it for 449 rupees....i read so many reviews which says fake product...but this one is original...comfort is also good...i really liked it.... ',
+      'Allen solly is always my fav brand because of fabic fitting n all ',
+      'Very good quality and fittings.',
     ],
   },
   {
@@ -1067,7 +674,8 @@ const products = [
   {
     categories: 'architect',
     id: '46',
-    title: 'NIVEA Men Face Wash, Deep Impact Intense Clean, for Beard & Face, with Black Carbon, 100 g',
+    title:
+      'NIVEA Men Face Wash, Deep Impact Intense Clean, for Beard & Face, with Black Carbon, 100 g',
     rating: '4.2',
     description:
       'NIVEA Men Face Wash Complete is a men facewash enriched with Yuzu Lemon essence. Yuzu Lemon is known as the King of Lemons since it contains a high concentration of Vitamin C and is known for its strong brightening, exfoliating and anti-oxidant properties. ',
@@ -1089,7 +697,8 @@ const products = [
   {
     categories: 'developper',
     id: '47',
-    title: 'Rozior® Kids Sunglass with UV Protection Green Mirror Lens with Black Frame, MODEL: RWUK1028M1',
+    title:
+      'Rozior® Kids Sunglass with UV Protection Green Mirror Lens with Black Frame, MODEL: RWUK1028M1',
     rating: '4.4',
     description:
       'MODEL: RWUK1028M1 || SIZE: Small || FRAME: Glossy Black Poly Carbonate || LENS: Green Mirror AC-Acrylic SUN PROTECTION: Rozior latest UV400 protected lens to block 100% Ultra Violet rays and protect eyes from UVA, UVB, UVC, Blue Light or any kind of harmful sun rays.',

@@ -21,6 +21,6 @@ export default function handler(
   res: NextApiResponse<Data>
 ) {
     const {id}=(req.query as unknown) as {id:number}
-
+  
   res.status(200).json(products[id-1]);
 }
