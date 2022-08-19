@@ -20,7 +20,8 @@ export default function handler(
   req: NextApiRequest,
   res: NextApiResponse<Data>
 ) {
-    const {id}=(req.query as unknown) as {id:number}
-  
-  res.status(200).json(products[id-1]);
+    // const {id}=(req.query as unknown) as {id:number}
+    const {id}=req.query
+    const product=products.filter(prod=>prod.id==id)[0]
+  res.status(200).json(product);
 }
