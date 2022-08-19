@@ -1,5 +1,99 @@
 const products = [
   {
+    categories: 'gamer',
+    id: '18',
+    title: 'Epson L3100 Multi-function Color Printer  (Black, Ink Tank) ',
+    rating: '4.6',
+    description:
+      'Similar features as Epson L3110, Epson L3101 printer Printer Type - Ink Tank; Functionality - All-in-One (Print, Scan, Copy) , Scanner type - Flatbed; Printer Output',
+    price: '₹11,199',
+
+    image: [
+      'https://rukminim1.flixcart.com/image/416/416/k0flmkw0/printer/h/d/h/epson-ecotank-l3100-l3100-original-imafk4ubnbz47tzq.jpeg?q=70',
+      'https://rukminim1.flixcart.com/image/416/416/k0flmkw0/printer/h/d/h/epson-ecotank-l3100-l3100-original-imafk4ubsuaeeak9.jpeg?q=70',
+      'https://rukminim1.flixcart.com/image/416/416/k0flmkw0/printer/h/d/h/epson-ecotank-l3100-l3100-original-imafk4ubypczkzy2.jpeg?q=70',
+      'https://rukminim1.flixcart.com/image/416/416/k0flmkw0/printer/h/d/h/epson-ecotank-l3100-l3100-original-imafk4ubg8pbxeyp.jpeg?q=70',
+    ],
+
+    review: [
+      'Printer Is Nice.* Quality Is Awesome. * High Quality Printing Is Very Slow. ',
+      "You Can't Find This Printer's Driver On Internet. So Please Install Only DVD Drivers. * Use Photoshop For Photo Printing For Accurate Quality.* Printer Has Very Light Weight.",
+      'Fpr Its Proper Care You Have To Cover It With Any Cloth On Its Idle Time. * Print Atleast One Color Print High Or Normal Dail...',
+    ],
+  },
+  
+  {
+    categories: 'gamer',
+    id: '20',
+    title:
+      'Dell Inspiron 15 3000 Series 3511 Laptop, 15.6" FHD Touchscreen Anti-Glare, 11th Gen Intel Core i5-1135G7 Quad-Core Processor, 16GB RAM, 512GB SSD, HDMI, Webcam, Windows 11, Black (Latest Model)',
+    rating: '4.4',
+    description:
+      'Care Instructions: Wash with mild detergent, do not bleach, dry in shade Fit Type: regular fit 60% cotton and 40% polyester Regular fit ',
+    price: '₹1900',
+    image: [
+      'https://m.media-amazon.com/images/I/41LcO6C4TiL._AC_US40_.jpg',
+      ' https://m.media-amazon.com/images/I/41zcqhe8uNL._AC_US40_.jpg',
+      'https://m.media-amazon.com/images/I/51R3o3kbFLL._AC_SX679_.jpg',
+      'https://m.media-amazon.com/images/I/31jeCo1WKML._AC_US40_.jpg',
+      ' https://m.media-amazon.com/images/I/31DW2R+VwqL._AC_US40_.jpg',
+      'https://m.media-amazon.com/images/I/31BTgZh0YuL._AC_US40_.jpg',
+      ' https://m.media-amazon.com/images/I/51vGw0IfBPL._AC_SX679_.jpg',
+    ],
+    review: [
+      'Simply super and value for money deal. Fits well as well and the cut in the sides look very nice. Loved it. Ordering more in other colors. 5 star rating. ',
+      'Good quality polo from allen solly....got it for 449 rupees....i read so many reviews which says fake product...but this one is original...comfort is also good...i really liked it.... ',
+      'Allen solly is always my fav brand because of fabic fitting n all ',
+      'Very good quality and fittings.',
+    ],
+  },
+  {
+    categories: 'gamer',
+    id: '21',
+    title:
+      '2022 Newest Dell Inspiron 3510 Laptop, 15.6 HD Display, Intel Celeron N4020 Processor, 16GB DDR4 RAM, 1TB HDD, Webcam, WiFi, HDMI, Bluetooth, Win10 Home, Black',
+    rating: '4.4',
+    description:
+      'Care Instructions: Wash with mild detergent, do not bleach, dry in shade Fit Type: regular fit 60% cotton and 40% polyester Regular fit ',
+    price: '₹1900',
+    image: [
+      'https://m.media-amazon.com/images/I/41BWn9MEkdL._AC_US40_.jpg',
+      'https://m.media-amazon.com/images/I/41C+7GKW-vL._AC_US40_.jpg',
+      'https://m.media-amazon.com/images/I/4197in2AAKL._AC_US40_.jpg',
+      'https://m.media-amazon.com/images/I/31JH2ic3gzL._AC_US40_.jpg',
+    ],
+    review: [
+      'Simply super and value for money deal. Fits well as well and the cut in the sides look very nice. Loved it. Ordering more in other colors. 5 star rating. ',
+      'Good quality polo from allen solly....got it for 449 rupees....i read so many reviews which says fake product...but this one is original...comfort is also good...i really liked it.... ',
+      'Allen solly is always my fav brand because of fabic fitting n all ',
+      'Very good quality and fittings.',
+    ],
+  },
+
+  {
+    categories: 'gamer',
+    id: '22',
+    title:
+      'HP 15.6-inch Laptop, 11th Generation Intel Core i5-1135G7, Intel Iris Xe Graphics, 8 GB RAM, 256 GB SSD, Windows 11 Home (15-dy2024nr, Natural silver)',
+    rating: '4.4',
+    description:
+      'Care Instructions: Wash with mild detergent, do not bleach, dry in shade Fit Type: regular fit 60% cotton and 40% polyester Regular fit ',
+    price: '₹1900',
+    image: [
+      'https://m.media-amazon.com/images/I/31JH2ic3gzL._AC_US40_.jpg',
+      'https://m.media-amazon.com/images/I/410WH9JVaQL._AC_US40_.jpg',
+      'https://m.media-amazon.com/images/I/41h-xNfhAiL._AC_US40_.jpg',
+      'https://m.media-amazon.com/images/I/51SMMRYkTZL._AC_US40_.jpg',
+      'https://m.media-amazon.com/images/I/41fV3UBf8-L._AC_US40_.jpg',
+    ],
+    review: [
+      'Simply super and value for money deal. Fits well as well and the cut in the sides look very nice. Loved it. Ordering more in other colors. 5 star rating. ',
+      'Good quality polo from allen solly....got it for 449 rupees....i read so many reviews which says fake product...but this one is original...comfort is also good...i really liked it.... ',
+      'Allen solly is always my fav brand because of fabic fitting n all ',
+      'Very good quality and fittings.',
+    ],
+  },
+  {
     categories: 'developper',
     id: '1',
     title: 'APPLE iPhone 12 Pro (Gold, 128 GB)',
@@ -436,100 +530,7 @@ const products = [
     ],
   },
 
-  {
-    categories: 'gamer',
-    id: '18',
-    title: 'Epson L3100 Multi-function Color Printer  (Black, Ink Tank) ',
-    rating: '4.6',
-    description:
-      'Similar features as Epson L3110, Epson L3101 printer Printer Type - Ink Tank; Functionality - All-in-One (Print, Scan, Copy) , Scanner type - Flatbed; Printer Output',
-    price: '₹11,199',
-
-    image: [
-      'https://rukminim1.flixcart.com/image/416/416/k0flmkw0/printer/h/d/h/epson-ecotank-l3100-l3100-original-imafk4ubnbz47tzq.jpeg?q=70',
-      'https://rukminim1.flixcart.com/image/416/416/k0flmkw0/printer/h/d/h/epson-ecotank-l3100-l3100-original-imafk4ubsuaeeak9.jpeg?q=70',
-      'https://rukminim1.flixcart.com/image/416/416/k0flmkw0/printer/h/d/h/epson-ecotank-l3100-l3100-original-imafk4ubypczkzy2.jpeg?q=70',
-      'https://rukminim1.flixcart.com/image/416/416/k0flmkw0/printer/h/d/h/epson-ecotank-l3100-l3100-original-imafk4ubg8pbxeyp.jpeg?q=70',
-    ],
-
-    review: [
-      'Printer Is Nice.* Quality Is Awesome. * High Quality Printing Is Very Slow. ',
-      "You Can't Find This Printer's Driver On Internet. So Please Install Only DVD Drivers. * Use Photoshop For Photo Printing For Accurate Quality.* Printer Has Very Light Weight.",
-      'Fpr Its Proper Care You Have To Cover It With Any Cloth On Its Idle Time. * Print Atleast One Color Print High Or Normal Dail...',
-    ],
-  },
   
-  {
-    categories: 'gamer',
-    id: '20',
-    title:
-      'Dell Inspiron 15 3000 Series 3511 Laptop, 15.6" FHD Touchscreen Anti-Glare, 11th Gen Intel Core i5-1135G7 Quad-Core Processor, 16GB RAM, 512GB SSD, HDMI, Webcam, Windows 11, Black (Latest Model)',
-    rating: '4.4',
-    description:
-      'Care Instructions: Wash with mild detergent, do not bleach, dry in shade Fit Type: regular fit 60% cotton and 40% polyester Regular fit ',
-    price: '₹1900',
-    image: [
-      'https://m.media-amazon.com/images/I/41LcO6C4TiL._AC_US40_.jpg',
-      ' https://m.media-amazon.com/images/I/41zcqhe8uNL._AC_US40_.jpg',
-      'https://m.media-amazon.com/images/I/51R3o3kbFLL._AC_SX679_.jpg',
-      'https://m.media-amazon.com/images/I/31jeCo1WKML._AC_US40_.jpg',
-      ' https://m.media-amazon.com/images/I/31DW2R+VwqL._AC_US40_.jpg',
-      'https://m.media-amazon.com/images/I/31BTgZh0YuL._AC_US40_.jpg',
-      ' https://m.media-amazon.com/images/I/51vGw0IfBPL._AC_SX679_.jpg',
-    ],
-    review: [
-      'Simply super and value for money deal. Fits well as well and the cut in the sides look very nice. Loved it. Ordering more in other colors. 5 star rating. ',
-      'Good quality polo from allen solly....got it for 449 rupees....i read so many reviews which says fake product...but this one is original...comfort is also good...i really liked it.... ',
-      'Allen solly is always my fav brand because of fabic fitting n all ',
-      'Very good quality and fittings.',
-    ],
-  },
-  {
-    categories: 'gamer',
-    id: '21',
-    title:
-      '2022 Newest Dell Inspiron 3510 Laptop, 15.6 HD Display, Intel Celeron N4020 Processor, 16GB DDR4 RAM, 1TB HDD, Webcam, WiFi, HDMI, Bluetooth, Win10 Home, Black',
-    rating: '4.4',
-    description:
-      'Care Instructions: Wash with mild detergent, do not bleach, dry in shade Fit Type: regular fit 60% cotton and 40% polyester Regular fit ',
-    price: '₹1900',
-    image: [
-      'https://m.media-amazon.com/images/I/41BWn9MEkdL._AC_US40_.jpg',
-      'https://m.media-amazon.com/images/I/41C+7GKW-vL._AC_US40_.jpg',
-      'https://m.media-amazon.com/images/I/4197in2AAKL._AC_US40_.jpg',
-      'https://m.media-amazon.com/images/I/31JH2ic3gzL._AC_US40_.jpg',
-    ],
-    review: [
-      'Simply super and value for money deal. Fits well as well and the cut in the sides look very nice. Loved it. Ordering more in other colors. 5 star rating. ',
-      'Good quality polo from allen solly....got it for 449 rupees....i read so many reviews which says fake product...but this one is original...comfort is also good...i really liked it.... ',
-      'Allen solly is always my fav brand because of fabic fitting n all ',
-      'Very good quality and fittings.',
-    ],
-  },
-
-  {
-    categories: 'gamer',
-    id: '22',
-    title:
-      'HP 15.6-inch Laptop, 11th Generation Intel Core i5-1135G7, Intel Iris Xe Graphics, 8 GB RAM, 256 GB SSD, Windows 11 Home (15-dy2024nr, Natural silver)',
-    rating: '4.4',
-    description:
-      'Care Instructions: Wash with mild detergent, do not bleach, dry in shade Fit Type: regular fit 60% cotton and 40% polyester Regular fit ',
-    price: '₹1900',
-    image: [
-      'https://m.media-amazon.com/images/I/31JH2ic3gzL._AC_US40_.jpg',
-      'https://m.media-amazon.com/images/I/410WH9JVaQL._AC_US40_.jpg',
-      'https://m.media-amazon.com/images/I/41h-xNfhAiL._AC_US40_.jpg',
-      'https://m.media-amazon.com/images/I/51SMMRYkTZL._AC_US40_.jpg',
-      'https://m.media-amazon.com/images/I/41fV3UBf8-L._AC_US40_.jpg',
-    ],
-    review: [
-      'Simply super and value for money deal. Fits well as well and the cut in the sides look very nice. Loved it. Ordering more in other colors. 5 star rating. ',
-      'Good quality polo from allen solly....got it for 449 rupees....i read so many reviews which says fake product...but this one is original...comfort is also good...i really liked it.... ',
-      'Allen solly is always my fav brand because of fabic fitting n all ',
-      'Very good quality and fittings.',
-    ],
-  },
   {
     categories: 'gamer',
     id: '23',
