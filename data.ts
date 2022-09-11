@@ -6,7 +6,7 @@ const products = [
     rating: '4.6',
     description:
       'Similar features as Epson L3110, Epson L3101 printer Printer Type - Ink Tank; Functionality - All-in-One (Print, Scan, Copy) , Scanner type - Flatbed; Printer Output',
-    price: '11,199',
+    price: '11199',
 
     image: [
       'https://rukminim1.flixcart.com/image/416/416/k0flmkw0/printer/h/d/h/epson-ecotank-l3100-l3100-original-imafk4ubnbz47tzq.jpeg?q=70',
@@ -130,7 +130,7 @@ const products = [
     rating: '4.5',
     description:
       'High-speed internet, smooth gaming, and stunning photos, the realme Narzo Pro 5G is a power-packed smartphone for impressive performance. This smartphone features the 5G Technology for high-speed web browsing, the Dimensity 700 5G Processor for smooth gaming, and a 5000 mAh Massive Battery for hours of uninterrupted performance.',
-    price: '15,990',
+    price: '15990',
 
     image: [
       'https://rukminim1.flixcart.com/image/416/416/kq18n0w0/mobile/d/l/f/narzo-30-5g-rmx3242-realme-original-imag45yjdkgxddvh.jpeg?q=70',
@@ -169,7 +169,7 @@ const products = [
     rating: '4.5',
     description:
       'High-speed internet, smooth gaming, and stunning photos, the realme Narzo Pro 5G is a power-packed smartphone for impressive performance. This smartphone features the 5G Technology for high-speed web browsing, the Dimensity 700 5G Processor for smooth gaming, and a 5000 mAh Massive Battery for hours of uninterrupted performance.',
-    price: '11,499',
+    price: '11499',
 
     image: [
       'https://rukminim1.flixcart.com/image/416/416/kklhbbk0/mobile/m/s/f/m3-mzb0879in-poco-original-imafzxf686qtxq2x.jpeg?q=70',
@@ -213,7 +213,7 @@ const products = [
     rating: '4.5',
     description:
       'The moto g60 enables you to capture spectacular selfies wherever you are, thanks to its 32 MP selfie camera, the Quad Pixel technology, and LED flash. Thanks to the smooth 17.2 cm (6.8) HDR10 Display, you can enjoy a lifelike experience while streaming content, gaming, and more. And, thanks to the powerful 6000 mAh battery, you can enjoy using your mobile phone for all that you need, without any low-battery interruptions for a long time.',
-    price: '17,999',
+    price: '1999',
 
     image: [
       'https://rukminim1.flixcart.com/image/416/416/knoxnrk0/mobile/g/1/j/g60-panb0000in-panb0016in-panb0012in-panb0014in-motorola-original-imag2aq9v8hzetbn.jpeg?q=70',
@@ -248,7 +248,7 @@ const products = [
     rating: '4.2',
     description:
       "The Mi 11X from Xiaomi is the most affordable of three new models in the Mi 11 family. It's priced a bit lower than the Mi 10T but offers plenty of updated features, most notably its Qualcomm Snapdragon 870 SoC which is only one step below the current flagship level. ",
-    price: '27,990',
+    price: '27990',
     image: [
       'https://rukminim1.flixcart.com/image/416/416/kp78e4w0/mobile/b/2/u/11x-11x-mi-original-imag3hqsshfzpv4u.jpeg?q=70',
       'https://rukminim1.flixcart.com/image/416/416/ko8xtow0/mobile/0/t/7/m2012k11ai-11x-redmi-original-imag2qsbpgar8sfd.jpeg?q=70',
@@ -299,7 +299,7 @@ const products = [
     rating: '4.2',
     description:
       'The realme 8 Pro features a Tilt-shift mode and the Tilt-shift Time Lapse video so that you can add a creative perspective to the content that you create. Thanks to the Super AMOLED Display, your favourite movies, games, and more are more bright and vivid on screen. And, thanks to the 4500 mAh battery, you can stream content, game, and more without worrying about recharging your phone.',
-    price: '19,999',
+    price: '1999',
     image: [
       'https://rukminim1.flixcart.com/image/416/416/kmmcrrk0/mobile/5/w/u/8-pro-rmx3081-realme-original-imagfgpgcxyjufz3.jpeg?q=70',
       'https://rukminim1.flixcart.com/image/416/416/kmmcrrk0/mobile/i/5/l/8-pro-rmx3081-realme-original-imagfgpgecfv3rng.jpeg?q=70',
@@ -320,7 +320,7 @@ const products = [
     rating: '4.1',
     description:
       'The Google Pixel 4a is more than just another smartphone for your tasks! Its HDR+ will help you take stunning photos. The Night Sight mode with astrophotography is just what you need to click those stunning images of the star-lit skies you have been meaning to capture. This phone also features apps such as the Pixel Recorder app that transcribes speech automatically.',
-    price: '31,999',
+    price: '3999',
     image: [
       'https://rukminim1.flixcart.com/image/416/416/kflftzk0/mobile/h/q/u/google-pixel-4a-ga02099-in-original-imafwyzmnfxzmv5q.jpeg?q=70',
       'https://rukminim1.flixcart.com/image/416/416/kflftzk0/mobile/h/q/u/google-pixel-4a-ga02099-in-original-imafwyzmyq7m3unr.jpeg?q=70',
@@ -349,7 +349,7 @@ const products = [
     rating: '4.3',
     description:
       'Bring home the Samsung Galaxy A52 smartphone to enjoy viewing sharp visuals, click clear images, record stable videos, and do more. Its rear camera setup, with OIS, helps you capture clear shots. While its 16.40 cm (6.5) FHD+ Super AMOLED display delivers vivid visuals, the Eye Comfort Shield ensures reduced blue light emissions, thereby preventing eye strain.',
-    price: '27,999',
+    price: '2999',
     image: [
       'https://rukminim1.flixcart.com/image/416/416/kmf7ki80/mobile/s/z/a/galaxy-a52-sm-a525fzbgins-samsung-original-imagfb4xdvtk8zzb.jpeg?q=70',
       'https://rukminim1.flixcart.com/image/416/416/kmf7ki80/mobile/1/r/s/galaxy-a52-sm-a525fzbgins-samsung-original-imagfb4xs5wtfmpm.jpeg?q=70',
@@ -391,7 +391,7 @@ const products = [
     rating: '4.5',
     description:
       'Celeron N4020/4GB/64GB SSD/Chrome OS/Integrated Graphics, Ceremic White, 35.6 cm (14 inch)',
-    price: '27,490',
+    price: '2490',
 
     image: [
       'https://m.media-amazon.com/images/I/61Gnrgw0mrL._SL1080_.jpg',
@@ -416,7 +416,7 @@ const products = [
     rating: '4.3',
     description:
       'Self-Timer | Type C and Mini HDMI, |9 Auto Focus Points | 35x Optical Zoom., Effective Pixels: 18 MP APS-C CMOS sensor-which is 25 times larger than a typical Smartphone sensor., WiFi | Full HD | Video Recording at 1080 p on 30fps.',
-    price: '27,955',
+    price: '27955',
 
     image: [
       'https://rukminim1.flixcart.com/image/416/416/jfbfde80/camera/n/r/n/canon-eos-eos-3000d-dslr-original-imaf3t5h9yuyc5zu.jpeg?q=70',
@@ -441,7 +441,7 @@ const products = [
     rating: '4.2',
     description:
       '(Frameless, Response Time: 5 ms, 60 Hz Refresh Rate) N4020/4GB/64GB SSD/Chrome OS/Integrated Graphics, Ceremic White, 35.6 cm (14 inch)',
-    price: '15,549',
+    price: '15549',
 
     image: [
       'https://rukminim1.flixcart.com/image/416/416/kbcjpu80/monitor/a/s/e/27m-3wl49aa-hp-original-imafsputczcjgktz.jpeg?q=70',
@@ -489,7 +489,7 @@ const products = [
     title: 'realme Buds Wireless Bluetooth Headset  (Yellow, In the Ear) ',
     rating: '4.9',
     description: 'With Mic:Yes,Bluetooth version: 5 Wireless range: 10 m',
-    price: '1,799',
+    price: '199',
 
     image: [
       'https://rukminim1.flixcart.com/image/416/416/k2arbm80/headphone/c/v/m/realme-buds-original-imafhzf2yxgn8hyh.jpeg?q=70',
@@ -512,7 +512,7 @@ const products = [
     rating: '3.9',
     description:
       'Celeron N4020/4GB/64GB SSD/Chrome OS/Integrated Graphics, Ceremic White, 35.6 cm (14 inch)',
-    price: '27,490',
+    price: '27490',
 
     image: [
       'https://rukminim1.flixcart.com/image/880/1056/kpodocw0/watch/p/l/t/anlg-428-blue-blu-analogue-original-imag3uxbhfkyhahf.jpeg?q=50',
@@ -535,7 +535,7 @@ const products = [
     rating: '4.7',
     description:
       '1280x720P Home Theater Projector,1080P Supported Compatible with for HDMI/USB Projector  (White)',
-    price: '6,990',
+    price: '6990',
 
     image: [
       'https://rukminim1.flixcart.com/image/416/416/kb2jmvk0/projector/e/j/j/s13-3d-mobile-wifi-full-hd-multimedia-s13-boss-original-imafsg523xdhkyvv.jpeg?q=70',
