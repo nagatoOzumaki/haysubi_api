@@ -8,20 +8,23 @@ type Data = {
   title: string;
   price: string;
   description: string;
+  quantity:number;
   categories: string;
   image: string[];
   rating: string;
   review:string[]
+  
 };
 
 
 
 export default function handler(
   req: NextApiRequest,
-  res: NextApiResponse<Data>
+  res: NextApiResponse<Data|string>
 ) {
     // const {id}=(req.query as unknown) as {id:number}
     const {id}=req.query
-    const product=products.filter(prod=>prod.id==id)[0]
-  res.status(200).json(product);
+    const product=products.filter(prod=>prod?.id==id)[0]
+    if(product) res.status(200).json(product);
+    else res.status(500).json("product not found");
 }

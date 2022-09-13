@@ -3,7 +3,7 @@ import type { NextApiRequest, NextApiResponse } from 'next';
 import products from '../../../data';
 
 
-type Data = {
+type Data = ({
   id: string;
   title: string;
   price: string;
@@ -11,8 +11,9 @@ type Data = {
   categories: string;
   image: string[];
   rating: string;
-  review:string[]
-}[];
+  review:string[];
+  quantity:number
+}|undefined)[];
 
 
 
@@ -23,8 +24,8 @@ export default function handler(
   res.setHeader("Access-Control-Allow-Origin", "*");
   const {profil}=req.query
   if(profil){
-    const newProducts=products.filter(product=>product.categories===profil)
-    res.status(200).json([...newProducts]);
+    const newProducts=products.filter(product=>product?.categories===profil)
+    if (newProducts)res.status(200).json([...newProducts]);
   }else{
   res.status(200).json([...products]);
 }
