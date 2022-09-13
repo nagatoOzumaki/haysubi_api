@@ -13,7 +13,7 @@ type Data = ({
   rating: string;
   review:string[];
   quantity:number
-}|undefined)[];
+})[];
 
 
 
@@ -25,7 +25,7 @@ export default function handler(
   const {profil}=req.query
   if(profil){
     const newProducts=products.filter(product=>product?.categories===profil)
-    if (newProducts)res.status(200).json([...newProducts]);
+    res.status(200).json([...newProducts]);
   }else{
   res.status(200).json([...products]);
 }
