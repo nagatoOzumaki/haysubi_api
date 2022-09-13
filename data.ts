@@ -586,13 +586,13 @@ const products = [
     rating: '4.8',
     description:
       'OnePlus Nord 2 5G (Gray Sierra, 8GB RAM, 128GB Storage) features a stylish design and innovative features so that you can enjoy using the mobile phone for all that you need. Thanks to its 6000 mAh battery, you will have a blast using your phone for a long time while you stream content and much more. It provides surround sound with Dolby Atmos so that you can delve into a world of rich music. And, it’s equipped with features that ensure the protection of your mobile phone.',
-    price: '29900',
+    price: '200',
     image: [
       'https://m.media-amazon.com/images/I/71LRBr1aLNS._SL1500_.jpg',
       'https://m.media-amazon.com/images/I/61TnX0PmqES._AC_SS450_.jpg',
       'https://cdn.pocket-lint.com/r/s/1200x/assets/images/157747-phones-review-hands-on-oneplus-nord-2-review-image11-8sxrpujdtq.jpg',
     ],
-   quantity:10,
+   quantity:9,
    review:[
       `
         Pros:
