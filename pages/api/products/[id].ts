@@ -25,6 +25,6 @@ export default function handler(
     // const {id}=(req.query as unknown) as {id:number}
     const {id}=req.query
     const product=products.filter(prod=>prod.id==id)[0]
-    res.status(200).json(product);
-     res.status(500).json("product not found");
+   res.status(200).json(product);
+     
 }
